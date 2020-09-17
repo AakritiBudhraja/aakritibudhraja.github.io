@@ -9,7 +9,7 @@
 
 # Academics
 | Education   | University   | Timeline   | 
-| :-------------: |:-------------:| :-------------:|
+| :-------------: | :-------------: | :-------------: |
 | MS      | IITM | 2018 - Present |
 | B.Tech      | IGDTUW      | 2011-15 |
 | XII | NEPS      | 2010-11 |
@@ -17,7 +17,7 @@
 
 # Work Experience
 | Sno   | Company   | Role   | Timeline   |
-| :-------------: |:-------------:| :-------------:|
+| :-------------: | :-------------: | :-------------: | :-------------: |
 | 1   | Microsoft   | Software Engineer    | Jul’16 – Jul’17   |
 | 2   | Microsoft   | Service Engineer   | Jun’15 – Jun’16   |
 
