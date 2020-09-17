@@ -1,8 +1,6 @@
 <head>
  <title> Aakriti Budhraja </title>
  <p> Female, 21/09/1993, India </p>
- <p> aakriti.budhraja@gmail.com </p>
- <p> cs18s009@smail.iitm.ac.in </p>
 </head>
 
 # About Me
@@ -46,3 +44,7 @@
 # Technical Skills & Programming Languages
 * Technical Skills: Machine Learning, Deep Learning, Reinforcement Learning (Basics).
 * Programming Languages & Frameworks used: Python, TensorFlow, MATLAB, C, C++, C#, SQL, PHP, HTML, CSS, JavaScript, Angular JS.
+
+# Contact
+* aakriti.budhraja@gmail.com
+* cs18s009@smail.iitm.ac.in
