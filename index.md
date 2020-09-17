@@ -8,6 +8,7 @@
 </div>
 
 # Academics
+
 | Education   | University   | Timeline   | 
 | :-------------: | :-------------: | :-------------: |
 | MS      | IITM | 2018 - Present |
@@ -16,6 +17,7 @@
 | X   | NEPS   | 2008-09 |
 
 # Work Experience
+
 | Sno   | Company   | Role   | Timeline   |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | 1   | Microsoft   | Software Engineer    | Jul’16 – Jul’17   |
