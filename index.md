@@ -4,10 +4,10 @@
 </head>
 
 # About Me
-* I am currently pursuing my MS in Computer Science under Dr. Mitesh M. Khapra and co-guided by Dr. Pratyush Kumar at IIT Madras.
-* I joined IIT Madras as an MS student (CS) in 2018.
-* My area of research is Deep learning for NLP.
-* Currently my work is focussed on  on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures (EMNLP).
+I am currently pursuing my MS in Computer Science under Dr. Pratyush Kumar and co-guided by Dr. Mitesh M. Khapra at IIT Madras.
+I joined IIT Madras as an MS student (CS) in 2018.
+My area of research is Deep learning for NLP.
+Currently my work is focussed on  on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures (EMNLP).
 
 # Academic Profile
 
