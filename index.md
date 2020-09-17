@@ -24,15 +24,10 @@
 | 2   | Microsoft   | Service Engineer   | Jun’15 – Jun’16   |
 
 # Under Graduate Experience - Projects
-* ACM Online Event Management Portal
-<div style = "text-align: justify">
-  An event-managing site that brings all online ACM activities under a single roof. It was deployed by the Technical Society of I.T. Department of IGDTUW. Secured IInd position 
-  for this project in the Web Application Development Workshop conducted under the ACM Student Chapter at IGDTUW.
-</div>
-* Facebook User Behavior Analysis:
-<div style = "text-align: justify">
-  Analyzed the behavior of various students of Computer Centre of the university with the help of various network traffic analyzers and some         Machine Learning techniques.
-</div>
+*ACM Online Event Management Portal
+  *An event-managing site that brings all online ACM activities under a single roof. It was deployed by the Technical Society of I.T. Department of IGDTUW. Secured IInd position for this project in the Web Application Development Workshop conducted under the ACM Student Chapter at IGDTUW.
+*Facebook User Behavior Analysis:
+  *Analyzed the behavior of various students of Computer Centre of the university with the help of various network traffic analyzers and some Machine Learning techniques.
 
 # High School Academic Achievements
 * Received certificates of Proficiencies in Mathematics & Computer Science for consistent performance in these subjects.
