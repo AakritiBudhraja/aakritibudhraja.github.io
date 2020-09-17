@@ -16,8 +16,10 @@
 | X   | NEPS   | 2008-09 |
 
 # Work Experience
-| 1   | Software Engineer   | Microsoft    | Jul’16 – Jul’17   |
-| 2   | Service Engineer   | Microsoft   | Jun’15 – Jun’16   |
+| Sno   | Company   | Role   | Timeline   |
+| :-------------: |:-------------:| :-------------:|
+| 1   | Microsoft   | Software Engineer    | Jul’16 – Jul’17   |
+| 2   | Microsoft   | Service Engineer   | Jun’15 – Jun’16   |
 
 # Under Graduate Experience - Projects
 * ACM Online Event Management Portal
