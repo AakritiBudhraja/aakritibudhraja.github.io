@@ -7,16 +7,7 @@
   I am currently pursuing my MS under Dr. Mitesh M. Khapra and co-guided by Dr. Pratyush Kumar at IIT Madras. I joined IIT Madras as an MS student (CS) in 2018. My area of research is Deep learning for NLP. Currently my work is focussed on  on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures.
 </div>
 
-# Technical Skills & Programming Languages
-Technical Skills: Machine Learning, Deep Learning, Reinforcement Learning (Basics).
-Programming Languages & Frameworks used: Python, TensorFlow, MATLAB, C, C++, C#, SQL, PHP, HTML, CSS, JavaScript, Angular JS.
-
 # Academics
-1. MS - 2018 - Present - CS - IIT Madras
-2. B.Tech - 2011-15 - IT - IGDTUW
-3. Class XII - 2010-11 - NEPS
-4. Class X - 2008-09 - NEPS
-
 | Education   | University   | Timeline   | 
 | :-------------: |:-------------:| :-------------:|
 | MS      | IITM | 2018 - Present |
@@ -25,8 +16,8 @@ Programming Languages & Frameworks used: Python, TensorFlow, MATLAB, C, C++, C#,
 | X   | NEPS   | 2008-09 |
 
 # Work Experience
-1. Software Engineer - Microsoft - Jul’16 – Jul’17
-2. Service Engineer - Microsoft - Jun’15 – Jun’16
+| 1   | Software Engineer   | Microsoft    | Jul’16 – Jul’17   |
+| 2   | Service Engineer   | Microsoft   | Jun’15 – Jun’16   |
 
 # Under Graduate Experience - Projects
 * ACM Online Event Management Portal
@@ -42,3 +33,7 @@ Programming Languages & Frameworks used: Python, TensorFlow, MATLAB, C, C++, C#,
 # High School Academic Achievements
 * Received certificates of Proficiencies in Mathematics & Computer Science for consistent performance in these subjects.
 * Received certificate for consistent academic excellence for 5 consecutive years.
+
+# Technical Skills & Programming Languages
+* Technical Skills: Machine Learning, Deep Learning, Reinforcement Learning (Basics).
+* Programming Languages & Frameworks used: Python, TensorFlow, MATLAB, C, C++, C#, SQL, PHP, HTML, CSS, JavaScript, Angular JS.
