@@ -1,8 +1,8 @@
 <head>
  <title> Aakriti Budhraja </title>
- <span> Female, 21/09/1993, India </span>
- <span> aakriti.budhraja@gmail.com </span>
- <span> cs18s009@smail.iitm.ac.in </span>
+ <p> Female, 21/09/1993, India </p>
+ <p> aakriti.budhraja@gmail.com </p>
+ <p> cs18s009@smail.iitm.ac.in </p>
 </head>
 
 # About Me
