@@ -1,5 +1,8 @@
 <head>
-<title> Aakriti Budhraja </title>
+ <title> Aakriti Budhraja </title>
+ <span> Female, 21/09/1993, India </span>
+ <span> aakriti.budhraja@gmail.com </span>
+ <span> cs18s009@smail.iitm.ac.in </span>
 </head>
 
 # About Me
@@ -8,7 +11,7 @@
 * My area of research is Deep learning for NLP.
 * Currently my work is focussed on  on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures (EMNLP).
 
-# Academics
+# Academic Profile
 
 | Education   | University   | Timeline   | 
 | :-------------: | :-------------: | :-------------: |
@@ -16,6 +19,12 @@
 | B.Tech      | IGDTUW      | 2011-15 |
 | XII | NEPS      | 2010-11 |
 | X   | NEPS   | 2008-09 |
+
+# Post Graduate Experience
+* Courses completed: Pattern Recognition and Machine Learning, Deep Learning, Linear Algebra and Random Processes, Non-Linear Optimization, Probabilistic Graphical Models, Advanced Data Structures and Algorithms.
+* Research Area: Deep Learning for Natural Language Processing
+  * Have been working on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures.
+  * Have submitted this work to the EMNLP conference and is currently under review
 
 # Work Experience
 
