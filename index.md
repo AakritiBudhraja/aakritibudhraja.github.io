@@ -17,8 +17,9 @@ Prior to joining IIT Madras, I have worked for a couple of years at Microsoft, H
 Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 
 # Teaching Experience
- * Teaching Assistant, Pattern Recognition and Machine Learning (Jan - May 2020)
- * Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
+* Teaching Assistant, Linear Algebra and Random Processes (Current semester)
+* Teaching Assistant, Pattern Recognition and Machine Learning (Jan - May 2020)
+* Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
 
 # Contact
 * aakriti.budhraja@gmail.com
