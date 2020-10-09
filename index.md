@@ -8,7 +8,7 @@ I will be graduating in the year 2021. I am working in the area of Deep Learning
 
 # Publications
 On the weak link between importance and prunability of attention heads <br>
-<i>Empirical Methods in Natural Language Processing, EMNLP2020</i>
+<i>Empirical Methods in Natural Language Processing, EMNLP 2020</i>
 
 # Work Experience
 Prior to joining IIT Madras, I have worked for a couple of years at Microsoft, Hyderabad. I have worked both as a Software Engineer and as a Service Engineer during my two year tenure.
@@ -17,10 +17,8 @@ Prior to joining IIT Madras, I have worked for a couple of years at Microsoft, H
 Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 
 # Teaching Experience
-<ul>
- <li> Teaching Assistant, Pattern Recognition and Machine Learning (Jan - May 2020)
- <li> Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
-</ul>
+ * Teaching Assistant, Pattern Recognition and Machine Learning (Jan - May 2020)
+ * Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
 
 # Contact
 * aakriti.budhraja@gmail.com
