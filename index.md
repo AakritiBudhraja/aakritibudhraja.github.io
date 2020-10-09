@@ -3,47 +3,25 @@
 </head>
 
 # About Me
-I am currently pursuing my MS in Computer Science under Dr. Pratyush Kumar at IIT Madras.
-I joined IIT Madras as an MS student (CS) in 2018.
-My area of research is Deep learning for NLP.
-Currently my work is focussed on  on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures (EMNLP).
+Hello! I am currently pursuing my Masters by Research in Computer Science under the guidance of Dr. Pratyush Kumar at Indian Institute of Technology, Madras.
+I will be graduating in the year 2021. I am working in the area of Deep Learning for Natural Language Processing.
 
-# Academic Profile
-
-| Education   | University   | Timeline   | 
-| :-------------: | :-------------: | :-------------: |
-| MS      | IITM | 2018 - Present |
-| B.Tech      | IGDTUW      | 2011-15 |
-| XII | NEPS      | 2010-11 |
-| X   | NEPS   | 2008-09 |
-
-# Post Graduate Experience
-* Courses completed: Pattern Recognition and Machine Learning, Deep Learning, Linear Algebra and Random Processes, Non-Linear Optimization, Probabilistic Graphical Models, Advanced Data Structures and Algorithms.
-* Research Area: Deep Learning for Natural Language Processing
-  * Have been working on the Interpretability aspect of Deep Learning for NLP, particularly on the Transformer and BERT architectures.
-  * Have submitted this work to the EMNLP conference and is currently under review
+# Publications
+On the weak link between importance and prunability of attention heads
+<i>Empirical Methods in Natural Language Processing,EMNLP2020</i>
 
 # Work Experience
+Prior to joining IIT Madras, I have worked for a couple of years at Microsoft, Hyderabad. I have worked both as a Software Engineer and as a Service Engineer during my two year tenure.
 
-| Sno   | Company   | Role   | Timeline   |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| 1   | Microsoft   | Software Engineer    | Jul’16 – Jul’17   |
-| 2   | Microsoft   | Service Engineer   | Jun’15 – Jun’16   |
+# Areas of Interest
+Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 
-# Under Graduate Experience - Projects
-* ACM Online Event Management Portal
-  * An event-managing site that brings all online ACM activities under a single roof. It was deployed by the Technical Society of I.T. Department of IGDTUW. Secured IInd position for this project in the Web Application Development Workshop conducted under the ACM Student Chapter at IGDTUW.
-* Facebook User Behavior Analysis:
-  * Analyzed the behavior of various students of Computer Centre of the university with the help of various network traffic analyzers and some Machine Learning techniques.
-
-# High School Academic Achievements
-* Received certificates of Proficiencies in Mathematics & Computer Science for consistent performance in these subjects.
-* Received certificate for consistent academic excellence for 5 consecutive years.
-
-# Technical Skills & Programming Languages
-* Technical Skills: Machine Learning, Deep Learning, Reinforcement Learning (Basics).
-* Programming Languages & Frameworks used: Python, TensorFlow, MATLAB, C, C++, C#, SQL, PHP, HTML, CSS, JavaScript, Angular JS.
+# Teaching Experience
+<ul>
+ <li> Teaching Assistant, Pattern Recognition and Machine Learning (Jan - May 2020)
+ <li> Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
+</ul>
 
 # Contact
 * aakriti.budhraja@gmail.com
-* cs18s009@smail.iitm.ac.in
+* abudhra@cse.iitm.ac.in
