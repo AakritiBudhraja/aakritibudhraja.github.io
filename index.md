@@ -7,8 +7,8 @@ Hello! I am currently pursuing my Masters by Research in Computer Science under 
 I will be graduating in the year 2021. I am working in the area of Deep Learning for Natural Language Processing.
 
 # Publications
-On the weak link between importance and prunability of attention heads
-<i>Empirical Methods in Natural Language Processing,EMNLP2020</i>
+On the weak link between importance and prunability of attention heads <br>
+<i>Empirical Methods in Natural Language Processing, EMNLP2020</i>
 
 # Work Experience
 Prior to joining IIT Madras, I have worked for a couple of years at Microsoft, Hyderabad. I have worked both as a Software Engineer and as a Service Engineer during my two year tenure.
