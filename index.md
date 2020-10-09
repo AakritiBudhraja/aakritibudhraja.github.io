@@ -2,7 +2,7 @@
  <title> Aakriti Budhraja </title>
 </head>
 
-# <font size="1"> About Me </font>
+# <font size="4"> About Me </font>
 Hello! I am currently pursuing my Masters by Research in Computer Science under the guidance of Dr. Pratyush Kumar at Indian Institute of Technology, Madras.
 I will be graduating in the year 2021. I am working in the area of Deep Learning for Natural Language Processing.
 
