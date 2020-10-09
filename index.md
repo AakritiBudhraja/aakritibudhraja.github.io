@@ -22,7 +22,7 @@ Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 * Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
 
 # Academic Details
-* I have completed my B.Tech from Indira Gandhi Delhi Technical University for Women, IGDTUW (formerly IGIT).
+* I have completed my B.Tech from Indira Gandhi Delhi Technical University for Women, IGDTUW (formerly IGIT) in 2015.
 
 # Contact
 * aakriti.budhraja@gmail.com
