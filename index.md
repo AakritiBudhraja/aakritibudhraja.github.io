@@ -21,6 +21,9 @@ Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
 * Teaching Assistant, Pattern Recognition and Machine Learning (Jan - May 2020)
 * Teaching Assistant, Object Oriented Algorithms Implementation and Analysis Lab (Jan - May 2019)
 
+# Academic Details
+* I have completed my B.Tech from Indira Gandhi Delhi Technical University for Women, IGDTUW (formerly IGIT).
+
 # Contact
 * aakriti.budhraja@gmail.com
 * abudhra@cse.iitm.ac.in
